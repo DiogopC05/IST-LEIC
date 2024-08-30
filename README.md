@@ -1,6 +1,6 @@
 # Major Projects of my Computer Science and Engineering Course
 
-##Year 1:
+#1st Year:
 
  - Fundamentos da Programação
  - Lógica para Programação
